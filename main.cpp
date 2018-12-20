@@ -12,7 +12,9 @@
 
 using std::cout;
 using std::endl;
+
 // FUNCTION PROTOTYPE (DECLERATION)
+
 /** function that squares the input by value.
 *
 * @param number The number value to be squared.
@@ -48,6 +50,8 @@ int main() {
 	return 0; // indicates successful termination 
 }
 // end main 
+
+// FUNCTION DEFINITION
 
 /* squareByValue multiplies number by itself, stores the
 * result in number and returns the new value of number
