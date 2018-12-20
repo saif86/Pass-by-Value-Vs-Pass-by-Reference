@@ -13,7 +13,7 @@
 using std::cout;
 using std::endl;
 
-// FUNCTION PROTOTYPE (DECLERATION)
+// FUNCTION PROTOTYPE (DECLARATION)
 
 /** function that squares the input by value.
 *
